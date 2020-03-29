@@ -5,3 +5,4 @@ Se você já usou o Google Photos ou o Google Voice Search, então já utlizou u
 Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor pode ser usado para representar conjuntos de dados N-dimensionais. 
 
 Aqui está um exemplo:
+![](/images/01_tensors_example.png?raw=true)
