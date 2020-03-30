@@ -6,3 +6,10 @@ Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor
 
 Aqui está um exemplo:
 ![](/images/01_tensors_example.png?raw=true-small)
+
+# TensorFlow x NumPy
+TensorFlow e NumPy são bastante semelhantes (ambos são bibliotecas de matriz N-d). NumPy é o pacote fundamental para computação científica com Python. Ele contém um poderoso objeto array N-dimensional, funções sofisticadas (broadcasting) e etc. Acredito que os usuários Python não podem viver sem o NumPy. 
+
+O NumPy tem suporte a matriz N-d, mas não oferece métodos para criar funções de tensor e automaticamente computar derivadas, além de não ter suporte a GPU, e esta é uma das principais razões para a existência do TensorFlow. Abaixo uma comparação entre NumPy e TensorFlow, e você vai perceber que muitas palavras-chave são semelhantes.
+
+![](/images/03_numpy_x_tensorflow.png?raw=true-small)
